@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/csa-school-api/v16
+*.sqlite
+/CSA-School-Api/.vs/CSA-School-Api
+/CSA-School-Api/bin/Debug/netcoreapp2.1
+/CSA-School-Api/obj
+/.vs
